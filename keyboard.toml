@@ -3,7 +3,7 @@ name = "sofle-rs"
 vendor_id = 0x4c4b
 product_id = 0x4643
 serial_number = "vial:f64c2b3c:000001"
-board = "nice!nano_v2"
+board = "nrf52840"
 usb_enable = true
 
 [layout]
